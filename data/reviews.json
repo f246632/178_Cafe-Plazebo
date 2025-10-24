@@ -1,0 +1,40 @@
+{
+  "google_rating": "4.3/5",
+  "total_reviews": "450+",
+  "social_media": {
+    "instagram": "https://www.instagram.com/cafe_placebo1/",
+    "facebook": "https://www.facebook.com/p/Cafe-Plazebo-100079925336761/",
+    "tripadvisor": "https://www.tripadvisor.com/Restaurant_Review-g187323-d6977038-Reviews-Cafe_Plazebo-Berlin.html",
+    "wolt": "https://wolt.com/en/deu/berlin/restaurant/cafe-plazebo"
+  },
+  "reviews": [
+    {
+      "author": "Sarah M.",
+      "rating": 5,
+      "text": "The perfect spot in Prenzlauer Berg! Their Turkish breakfast is absolutely divine, and the atmosphere is so cozy and welcoming. The macarons are a must-try!",
+      "date": "September 2024",
+      "platform": "Google"
+    },
+    {
+      "author": "Michael K.",
+      "rating": 5,
+      "text": "Great coffee, amazing pastries, and friendly staff. I come here almost every morning for my cappuccino. The Baumkuchen is incredible!",
+      "date": "August 2024",
+      "platform": "Google"
+    },
+    {
+      "author": "Lisa W.",
+      "rating": 4,
+      "text": "Lovely cafe with lots of vegan options. The avocado toast on whole grain bread is delicious, and they have soy and lactose-free milk options for coffee.",
+      "date": "July 2024",
+      "platform": "Google"
+    },
+    {
+      "author": "Thomas B.",
+      "rating": 5,
+      "text": "Best place to work on your laptop! Good WiFi, comfortable seating, and excellent coffee. The peanut butter brownies are addictive. Highly recommended!",
+      "date": "October 2024",
+      "platform": "Yelp"
+    }
+  ]
+}

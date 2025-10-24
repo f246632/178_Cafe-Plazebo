@@ -1,0 +1,129 @@
+{
+  "categories": [
+    {
+      "name": "Breakfast & Brunch",
+      "items": [
+        {
+          "name": "Turkish Breakfast",
+          "description": "Traditional Turkish spread with olives, cheese, tomatoes, cucumber, egg, and fresh bread",
+          "price": "€12.50"
+        },
+        {
+          "name": "Bauernfrühstück",
+          "description": "Hearty farmer's breakfast with eggs, potatoes, bacon, and vegetables",
+          "price": "€9.90"
+        },
+        {
+          "name": "Avocado Whole Grain Toast",
+          "description": "Fresh avocado on artisan whole grain bread with cherry tomatoes and herbs",
+          "price": "€8.50",
+          "tags": ["vegan option"]
+        },
+        {
+          "name": "Shakshuka",
+          "description": "Eggs poached in spicy tomato sauce with peppers and onions",
+          "price": "€10.50"
+        },
+        {
+          "name": "Omelette of the Day",
+          "description": "Three-egg omelette with daily fresh ingredients",
+          "price": "€8.90"
+        }
+      ]
+    },
+    {
+      "name": "Coffee & Drinks",
+      "items": [
+        {
+          "name": "Espresso",
+          "description": "Rich Italian espresso",
+          "price": "€2.50"
+        },
+        {
+          "name": "Cappuccino",
+          "description": "Espresso with steamed milk foam",
+          "price": "€3.50",
+          "tags": ["soy milk", "lactose-free"]
+        },
+        {
+          "name": "Flat White",
+          "description": "Smooth espresso with velvety microfoam",
+          "price": "€3.80"
+        },
+        {
+          "name": "Latte Macchiato",
+          "description": "Layered espresso with steamed milk",
+          "price": "€3.90"
+        },
+        {
+          "name": "Tea Selection",
+          "description": "Wide variety of premium teas",
+          "price": "€3.20"
+        },
+        {
+          "name": "Fresh Juice",
+          "description": "Orange or mixed fruit juice",
+          "price": "€4.50"
+        }
+      ]
+    },
+    {
+      "name": "Pastries & Desserts",
+      "items": [
+        {
+          "name": "Macarons",
+          "description": "French-style macarons in various flavors",
+          "price": "€2.50 each"
+        },
+        {
+          "name": "Baumkuchen",
+          "description": "Traditional German layered cake",
+          "price": "€4.50"
+        },
+        {
+          "name": "Peanut Butter Brownie",
+          "description": "Rich chocolate brownie with peanut butter swirl",
+          "price": "€4.20"
+        },
+        {
+          "name": "Pastel de Nata",
+          "description": "Portuguese custard tart",
+          "price": "€3.50"
+        },
+        {
+          "name": "Cake of the Day",
+          "description": "Ask about today's special cake selection",
+          "price": "€4.80"
+        }
+      ]
+    },
+    {
+      "name": "Lunch & Light Meals",
+      "items": [
+        {
+          "name": "Bowls",
+          "description": "Fresh seasonal bowls with grains, vegetables, and protein",
+          "price": "€11.50",
+          "tags": ["vegan option"]
+        },
+        {
+          "name": "Sandwiches",
+          "description": "Fresh sandwiches on artisan bread",
+          "price": "€7.90"
+        },
+        {
+          "name": "Soup of the Day",
+          "description": "Homemade daily soup served with bread",
+          "price": "€6.50"
+        }
+      ]
+    }
+  ],
+  "dietary_options": [
+    "Vegan options available",
+    "Lactose-free milk",
+    "Soy milk",
+    "Gluten-aware options (please ask staff)"
+  ],
+  "menu_note": "Prices and availability may vary. Please ask our staff about daily specials and dietary requirements."
+}
